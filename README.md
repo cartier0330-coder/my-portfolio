@@ -17,3 +17,4 @@
   * 本模型成功解釋了目標數據中約 **44.7% 的變異量 (Adjusted R-squared: 0.4441)**。
   * 回歸分析具體證實了年齡依賴比每增加一單位，將對人均健康支出帶來相應方向與幅度的顯著預測效果（F-statistic: 156.8, p-value < 2.2e-16）。
 * **技術工具**：R 語言 / Python、統計回歸建模。
+* **報告**：[Final Project index.html](https://github.com/user-attachments/files/28052720/Final.Project.index.html)
